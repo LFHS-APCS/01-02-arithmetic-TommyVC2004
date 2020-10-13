@@ -2,6 +2,10 @@ import java.util.*;
 
 /**
  * Description: This lab demonstrates the arithmetic operations.
+
+ * / with doubles just does the division normally with decimals
+ * / with integers just sees how many times the second number goes into the first
+ * % with integers looks at the remainder of the quotient
  */
 
 public class Arithmetic
